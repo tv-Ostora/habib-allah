@@ -1,7 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:14
+#EXT-X-VERSION:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:1~30
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LsFSU2I.jpeg" group-title="قـصـــص الأنـــبياء",حبيب الله  ( سيدنا محمد رسول الله ) الحلقة 1
 https://shoofmax.b-cdn.net/habib-allah/ep1/720p/index.m3u8
